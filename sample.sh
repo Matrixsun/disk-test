@@ -1,6 +1,6 @@
 #-----------------------------
 #	function: 标准测试fio
-#	mails:sunziwu@didichuxing.com
+#	mails:ziwusun@gmail.com
 #	date:2016-09-15
 #
 #
