@@ -1,6 +1,6 @@
 #--------------------------
 #	function:test fio every day
-#	mails:sunziwu@didichuxing.com
+#	mails:ziwusun@gmail.com
 #	date:2016-09-16
 #
 #
